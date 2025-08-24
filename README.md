@@ -32,5 +32,3 @@ This is an early-stage project—contributions welcome!
 - **HP Tuners Specifics**: Min/max log extraction, tune modification detection, and MegaLog-compatible exports.
 - **Future**: Embedded UIs via Square Line Studio for standalone hardware (e.g., like MoTeC Reflex for tuning/logging).
 
-## 🚀 Quick Start
-1. **Clone the Repo**:
