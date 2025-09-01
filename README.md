@@ -5,14 +5,12 @@
 [![Issues](https://img.shields.io/github/issues/Cashout-Performance/CashoutHexEditor)](https://github.com/Cashout-Performance/CashoutHexEditor/issues)
 [![Forks](https://img.shields.io/github/forks/Cashout-Performance/CashoutHexEditor)](https://github.com/Cashout-Performance/CashoutHexEditor/network)
 
-**Original open-source ECU hex editor and tuning app with AI guidance, datalog viewing, and OBD2/J2534 integration.**  
-Built in Python for automotive enthusiasts, inspired by community tools but focused on innovation like AI-assisted optimizations and hardware support. No copying of proprietary code—ethical development only.
 
 ## 🎯 Project Overview
-CashoutHexEditor is a modern, free alternative to tools like WinOLS or TunerPro, emphasizing originality with features like AI-powered tune recommendations, real-time datalog viewing, and hardware interfaces (ELM327, J2534, SavvyCAN). It supports hex editing for ECU files, map visualization, safety checks, and integration with tuning ecosystems like HP Tuners (e.g., CSV log analysis, vehicle lists).
+CashoutHexEditor is a modern, free alternative to tools like WinOLS or TunerPro, real-time datalog viewing, and hardware interfaces (ELM327, J2534, SavvyCAN). It supports hex editing for ECU files, map visualization, safety checks, and integration with tuning ecosystems like HP Tuners (e.g., CSV log analysis, vehicle lists).
 
 Key differentiators:
-- AI guidance for map detection, optimizations, and datalog analysis (e.g., flag risky timing via Grok/OpenAI).
+- 
 - Standalone hardware support for embedded projects (e.g., ESP32 displays with Square Line Studio UIs).
 - Cross-platform (Windows/macOS/Linux) with PySide6 GUI.
 
@@ -28,7 +26,5 @@ This is an early-stage project—contributions welcome!
   - ELM327 for basic OBD-II scanning and live logs.
   - J2534 for ECU flashing and diagnostics (e.g., PassThru APIs).
   - SavvyCAN for CAN bus logging/reverse engineering.
-- **AI Enhancements**: Prompt-based analysis (e.g., "Optimize this fuel map") with optional Web3 signatures for secure tunes.
-- **HP Tuners Specifics**: Min/max log extraction, tune modification detection, and MegaLog-compatible exports.
-- **Future**: Embedded UIs via Square Line Studio for standalone hardware (e.g., like MoTeC Reflex for tuning/logging).
+- **Future**: Embedded UIs via Square Line Studio for standalone hardware (e.g., like MoTeC Reflex for tuning/logging).\
 
