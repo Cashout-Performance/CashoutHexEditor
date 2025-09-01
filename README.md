@@ -19,7 +19,7 @@ This is an early-stage project—contributions welcome!
 ## ⚡ Features
 - **Hex Editor**: View/edit ECU files (.bin, .hex, .rom) with search/replace and checksum correction.
 - **Map Visualization**: Interactive 2D/3D fuel, timing, and boost maps using Plotly.
-- **Datalog Viewer**: Import CSVs, compute min/max values, real-time plotting, and AI-flagged issues (e.g., lean AFR spikes).
+- **Datalog Viewer**: Import CSVs, compute min/max values, real-time plotting, and flagged issues (e.g., lean AFR spikes).
 - **Safety Checks**: Automated warnings for limits (e.g., max timing, boost cut) with status badges.
 - **Vehicle Compatibility**: Import/convert lists (e.g., HP Tuners vehicles to CSV) for ECU filtering.
 - **Hardware Integration**:
